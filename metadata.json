@@ -1,0 +1,13 @@
+{
+  "alfredworkflow" : {
+    "category" : "Productivity",
+    "readme" : "# Code Screenshot\n> Generate screenshots of your code snippets with [Alfred](https:\/\/alfred.app\/). Fine-tune details with [Raycast's webui](https:\/\/ray.so\/hBzUh0o).\n\n\n## Setup\nConfigurable attributes: \n- theme (limited to those supported by raycast)\n- padding (around the code, list of values supported by raycast)\n- background (enabled or disabled)\n- title (is displayed as title of the \"window\")\n- dark mode (enabled or disabled)\n- width (min 520, default is auto)\n\n## Usage\n\n1. Select your code \n2. Trigger universal action named `Generate Image From Selected Code`.\n3. (optional) fine-tune the screenshot on the opened ray.so page \n4. click export\n\nPRO TIP: you can use shortcuts on the raycast page to make quick edits, export, etc. Tap `?` on your keyboard or click on info button to see the shortcut reference while on the page with your snippet.\n\n## Reference\n\nhttps:\/\/github.com\/raycast\/ray-so\n\n## Credits\n\nOriginal idea of the workflow by Alan He (https:\/\/github.com\/alanhe421\/alfred-workflows\/tree\/master\/ray-so)",
+    "createdby" : "pa1ar",
+    "downloadurl" : "",
+    "version" : "0.1",
+    "bundleid" : "io.1ar.alfred.codeScreenshot",
+    "description" : "Generate screenshots of your code snippets. Fine-tune details with Raycast's webui.",
+    "name" : "Code Screenshot",
+    "webaddress" : "https:\/\/github.com\/pa1ar\/alfredCodeScreenshot"
+  }
+}
